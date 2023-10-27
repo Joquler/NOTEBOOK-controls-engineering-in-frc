@@ -56,3 +56,4 @@ PID’s heuristic method of tuning is a reasonable choice when there is no a pri
 # 3. Application advice
 ## 3-1. Mechanical vs software solutions
 The solution to a design problem may be a tradeoff between mechanical and software complexity.  
+## 3-2. Actuator saturation
