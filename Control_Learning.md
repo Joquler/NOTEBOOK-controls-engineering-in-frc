@@ -57,3 +57,15 @@ PID’s heuristic method of tuning is a reasonable choice when there is no a pri
 ## 3-1. Mechanical vs software solutions
 The solution to a design problem may be a tradeoff between mechanical and software complexity.  
 ## 3-2. Actuator saturation
+
+# 4. Calculus
+
+# 5.Linear algebra
+## 5.11 Common control theory matrix equations
+difficult(cry~)
+## 5.12 Matrix calculus
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+
+# 6. Continuous state-space control
