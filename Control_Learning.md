@@ -69,3 +69,7 @@ difficult(cry~)
 ![Alt text](image-10.png)
 
 # 6. Continuous state-space control
+## 6.2 dynamical system
+linear
+## 6.3 Continuous state-space notation
+![Alt text](image-11.png)
